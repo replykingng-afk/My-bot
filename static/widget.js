@@ -2,7 +2,7 @@
   "use strict";
 
   // ✏️ Replace with your Render URL after deploying
-  const API_BASE = "https://my-bot-3rem.onrender.com";
+  const API_BASE = "https://my-bot-3rem-585u.onrender.com";
 
   let messageCount = 0;
   let leadCaptured = false;
