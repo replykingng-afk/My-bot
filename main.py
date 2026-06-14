@@ -55,7 +55,7 @@ BRAND_COLOR = "#1D4ED8"  # ✏️ Deep professional blue — change per client
 # 🔑  API KEYS — set these in Render Dashboard → Environment
 # ============================================================
 
-GEMINI_API_KEY    = os.environ.get("AQ.Ab8RN6ISpigXQ8Ve97utf0gyLDrb1YjBIHHZl4vpiQ4IiSfpDA",    "AQ.Ab8RN6ISpigXQ8Ve97utf0gyLDrb1YjBIHHZl4vpiQ4IiSfpDA")
+GEMINI_API_KEY    = os.environ.get("GEMINI_API_KEY",    "AQ.Ab8RN6ISpigXQ8Ve97utf0gyLDrb1YjBIHHZl4vpiQ4IiSfpDA")
 SUPABASE_URL      = os.environ.get("SUPABASE_URL",      "https://dbtrhxuscvskwsaurmrb.supabase.co")
 SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRidHJoeHVzY3Zza3dzYXVybXJiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MTIyNDQ4OSwiZXhwIjoyMDk2ODAwNDg5fQ.HWPrGIP0H80o-T_7nhvbemunv2j-m5o81ihILUDvmgA")
 
